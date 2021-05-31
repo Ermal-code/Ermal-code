@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-## I'm a M.E.R.N stack Developer
+## I'm a M.E.R.N Stack Developer
 
 - 🔭 I just launched my latest project: [Easy Doctor][project]!
 - 🌱 I’m currently learning everything 🤣
