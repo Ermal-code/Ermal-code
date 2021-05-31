@@ -56,12 +56,10 @@ Here are some ideas to get you started:
 
 ---
 
-[![Ermals's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ermal-code&show_icons=true&hide_border=true)](https://github.com/Ermal-code/github-readme-stats)
-
 <details>
   <summary>:zap: GitHub Stats</summary>
 
-  <img align="left" alt="Ermal-code GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=Ermal-code&show_icons=true&hide_border=true" />
+[![Ermals's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ermal-code&show_icons=true&hide_border=true)](https://github.com/Ermal-code/github-readme-stats)
 
 </details>
 
