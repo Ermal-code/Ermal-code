@@ -56,7 +56,7 @@ Here are some ideas to get you started:
 
 ---
 
-<summary>:zap: GitHub Stats</summary>
+### :zap: GitHub Stats
 
 [![Ermals's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ermal-code&show_icons=true&hide_border=true)](https://github.com/Ermal-code/github-readme-stats)
 
