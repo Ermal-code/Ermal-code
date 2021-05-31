@@ -56,12 +56,9 @@ Here are some ideas to get you started:
 
 ---
 
-<details>
-  <summary>:zap: GitHub Stats</summary>
+<summary>:zap: GitHub Stats</summary>
 
 [![Ermals's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ermal-code&show_icons=true&hide_border=true)](https://github.com/Ermal-code/github-readme-stats)
-
-</details>
 
 [project]: https://easy-doctor.vercel.app/
 [instagram]: https://instagram.com/codeSTACKr
