@@ -17,11 +17,10 @@ Here are some ideas to get you started:
 
 ## I'm a M.E.R.N stack Developer
 
-- 🔭 I just launched my first course: [Become A VS Code SuperHero!][course]!
+- 🔭 I just launched my latest project: [Easy Doctor][project]!
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking to collaborate with other content creators
-- 🥅 2020 Goals: Contribute more to Open Source projects
-- ⚡ Fun fact: I love to draw and play guitar / drums
+- 🥅 2020 Goals: Get hired and advance my knowledge with new languages
 
 ### Connect with me:
 
@@ -64,6 +63,7 @@ Here are some ideas to get you started:
 
 </details>
 
+[project]: https://easy-doctor.vercel.app/
 [instagram]: https://instagram.com/codeSTACKr
 [linkedin]: https://linkedin.com/in/codeSTACKr
 [webdevplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrAJ0WbEsFA9W3I1W-g_BTsbt
