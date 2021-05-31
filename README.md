@@ -56,6 +56,8 @@ Here are some ideas to get you started:
 
 ---
 
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ermal-code)](https://github.com/Ermal-code/github-readme-stats)
+
 <details>
   <summary>:zap: GitHub Stats</summary>
 
