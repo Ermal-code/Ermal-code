@@ -25,7 +25,7 @@ Here are some ideas to get you started:
 ### Connect with me:
 
 [<img align="left" alt="codeSTACKr.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
-[<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://rscouncil.org/wp-content/uploads/2018/08/kisspng-linkedin-computer-icons-business-advertising-compa-grey-background-5acab175e72e40.3662579915232331419469.jpg" />][linkedin]
 
 <br />
 
