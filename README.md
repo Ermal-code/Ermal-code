@@ -67,7 +67,8 @@ Here are some ideas to get you started:
 ### :zap: Language Stats
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ermal-code&theme=radical&hide_border=true&count_private=true&langs_count=10)](https://github.com/Ermal-code/github-readme-stats)
-[website]:https://ermal-asllani.vercel.app/
+
+[website]: https://ermal-asllani.vercel.app/
 [project]: https://easy-doctor.vercel.app/
 [instagram]: https://instagram.com/codeSTACKr
 [linkedin]: https://linkedin.com/in/codeSTACKr
