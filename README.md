@@ -59,11 +59,10 @@ Here are some ideas to get you started:
 <details>
   <summary>:zap: GitHub Stats</summary>
 
-  <img align="left" alt="Ermal-code GitHub Stats" src=[default] />
+  <img align="left" alt="Ermal-code GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=Ermal-code&show_icons=true&hide_border=true" />
 
 </details>
 
-[default]: https://github-readme-stats.codestackr.vercel.app/api?username=Ermal-code&show_icons=true&hide_border=true
 [project]: https://easy-doctor.vercel.app/
 [instagram]: https://instagram.com/codeSTACKr
 [linkedin]: https://linkedin.com/in/codeSTACKr
