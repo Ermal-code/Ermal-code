@@ -24,7 +24,7 @@ Here are some ideas to get you started:
 
 ### Connect with me:
 
-[<img align="left" alt="codeSTACKr.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
+[<img align="left" alt="codeSTACKr.com" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Globe_icon-white.svg/1200px-Globe_icon-white.svg.png" />][website]
 [<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://ricardoreadingmouse.com.au/wp-content/uploads/2018/04/linkedin-logo-copy.png" />][linkedin]
 
 <br />
