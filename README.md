@@ -52,7 +52,7 @@ Here are some ideas to get you started:
 
 ### :zap: GitHub Stats
 
-[![Ermals's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ermal-code&show_icons=true&hide_border=true&hide=contribs&theme=radical&count_private=true)](https://github.com/Ermal-code/github-readme-stats)
+[![Ermals's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ermal-code&show_icons=true&hide_border=true&theme=radical&count_private=true)](https://github.com/Ermal-code/github-readme-stats)
 
 <br/>
 
