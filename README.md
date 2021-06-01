@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 
 - 🔭 I just launched my latest project: [Easy Doctor][project]!
 - 🌱 I’m currently learning everything 🤣
-- 👯 I’m looking to collaborate with other content creators
+- 👯 I’m looking to collaborate with other developers
 - 🥅 2021 Goals: Get hired and advance my knowledge with new languages
 
 ### Connect with me:
