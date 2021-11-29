@@ -15,12 +15,12 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-## I'm a M.E.R.N Stack Developer
+## I'm a Software Developer
 
 - 🔭 I just launched my latest project: [Easy Doctor][project]!
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking to collaborate with other developers
-- 🥅 2021 Goals: Get hired and advance my knowledge with new languages
+
 
 ### Connect with me:
 
