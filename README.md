@@ -25,7 +25,7 @@ Here are some ideas to get you started:
 ### Connect with me:
 
 [<img align="left" alt="Easy Doctor" width="22px" src="https://cdn2.iconfinder.com/data/icons/basic-thin-line-color/21/18-512.png" />][website]
-[<img align="left" alt="Ermal Asllani | LinkedIn" width="22px" src="https://ricardoreadingmouse.com.au/wp-content/uploads/2018/04/linkedin-logo-copy.png" />][linkedin]
+[<img align="left" alt="Ermal Asllani | LinkedIn" width="22px" src="https://image.similarpng.com/very-thumbnail/2020/07/Linkedin-logo-on-transparent--background-PNG.png" />][linkedin]
 
 <br />
 
