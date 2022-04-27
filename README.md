@@ -17,7 +17,6 @@ Here are some ideas to get you started:
 
 ## I'm a Software Developer
 
-- 🔭 I just launched my latest project: [Easy Doctor][project]!
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking to collaborate with other developers
 
