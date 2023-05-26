@@ -22,7 +22,7 @@ Here are some ideas to get you started:
 - 👯 I’m looking to collaborate with other developers
 
 ## Latest project 
-Easy Doctor[project]
+Easy Doctor [project]
 
 ### Connect with me:
 
