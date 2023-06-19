@@ -22,6 +22,7 @@ Here are some ideas to get you started:
 - 👯 I’m looking to collaborate with other developers
 
 ## Latest project 
+[Web Portfolio for client][geportfolio]
 [Easy Doctor][project]
 
 ### Connect with me:
@@ -67,3 +68,4 @@ Here are some ideas to get you started:
 [website]: https://ermalasllani.vercel.app/
 [project]: https://easy-doctor.vercel.app/
 [linkedin]: https://www.linkedin.com/in/ermal-asllani/
+[geportfolio]:https://gentadallku.vercel.app/
