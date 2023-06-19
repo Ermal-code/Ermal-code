@@ -23,6 +23,7 @@ Here are some ideas to get you started:
 
 ## Latest project 
 [Web Portfolio for client][geportfolio]
+<br/>
 [Easy Doctor][project]
 
 ### Connect with me:
