@@ -29,7 +29,7 @@ Here are some ideas to get you started:
 ### Connect with me:
 
 [<img align="left" alt="Ermal Asllani web" width="22px" src="https://cdn2.iconfinder.com/data/icons/basic-thin-line-color/21/18-512.png" />][website]
-[<img align="left" alt="Ermal Asllani | LinkedIn" width="22px" src="https://image.similarpng.com/very-thumbnail/2020/07/Linkedin-logo-on-transparent--background-PNG.png" />][linkedin]
+[<img align="left" alt="Ermal Asllani | LinkedIn" width="22px" src="https://content.linkedin.com/content/dam/me/business/en-us/amp/xbu/linkedin-revised-brand-guidelines/in-logo/fg/brand-inlogo-download-fg-dsk-v01.png.original.png" />][linkedin]
 
 <br />
 
@@ -66,7 +66,7 @@ Here are some ideas to get you started:
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ermal-code&theme=radical&hide_border=true&count_private=true&langs_count=10)](https://github.com/Ermal-code/github-readme-stats)
 
-[website]: https://ermalasllani.vercel.app/
+[website]: https://ermalasllani.com/
 [project]: https://easy-doctor.vercel.app/
 [linkedin]: https://www.linkedin.com/in/ermal-asllani/
 [geportfolio]:https://gentadallku.vercel.app/
